@@ -6,7 +6,7 @@ body {
 p {
 	clear: both;
 }
-
+.player{margin: 0 auto;}
 .entry {
 	margin-top: 0;
 	margin-bottom: 0;
