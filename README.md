@@ -1,1 +1,1 @@
-# blessyou224.github.io
+http://blessyou224.github.io
